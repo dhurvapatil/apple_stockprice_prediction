@@ -1,0 +1,14 @@
+{
+  "random_forest": {
+    "train_accuracy": 0.996031746031746,
+    "val_accuracy": 0.5115511551155115,
+    "test_accuracy": 0.4717607973421927,
+    "training_time": 0.30430078506469727
+  },
+  "xgboost": {
+    "train_accuracy": 0.5615079365079365,
+    "val_accuracy": 0.4884488448844885,
+    "test_accuracy": 0.5647840531561462,
+    "training_time": 0.25226759910583496
+  }
+}
